@@ -10,7 +10,7 @@ O objetivo principal do jogo é pular os obstáculos da tela, estilo o jogo de d
 
 ## Como Jogar
 
-1. Inicie o Jogo: Abra o arquivo `index.html` em seu navegador ou jogue diretamente no {link do vercel}.
+1. Inicie o Jogo: Abra o arquivo `index.html` em seu navegador ou jogue diretamente em ttps://luigi-game.vercel.app/ .
 2. Controles: Pressionando qualquer tecla para o Luigi pular, ou tocando na tela. 
 
 ## Tecnologias Usadas
